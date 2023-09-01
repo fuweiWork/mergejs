@@ -1,0 +1,19 @@
+{
+  "name": "mergejs",
+  "version": "1.0.0",
+  "description": "表格合并多列的工具函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuweiWork/mergejs.git"
+  },
+  "author": "fuwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuweiWork/mergejs/issues"
+  },
+  "homepage": "https://github.com/fuweiWork/mergejs#readme"
+}
